@@ -4,3 +4,6 @@ Each task will be mentioned here, along with seperate solutions.
 
 ## Task 1: Market Microstructure and Mechanics 
 In this task, we have to go through the PDF given to us and understand how the market works. The link for the PDF is: ***https://drive.google.com/file/d/11u3UmgNYKTM0RUWvwqPrGfhywa0568kg/view***
+
+### Timeline 
+1st Dec 2025 - 31st Dec 2025 
